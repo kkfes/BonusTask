@@ -1,0 +1,18 @@
+=== Short test ===
+Text length: 5, Pattern length: 3
+Matches found: 2
+Indices: [0, 2]
+Avg Time (over 5 runs): 0,002460 ms
+
+=== Medium test ===
+Text length: 30, Pattern length: 8
+Matches found: 3
+Indices: [2, 12, 22]
+Avg Time (over 5 runs): 0,003180 ms
+
+=== Long test ===
+Text length: 70000, Pattern length: 11
+Matches found: 9999
+First 10 indices: [0, 7, 14, 21, 28, 35, 42, 49, 56, 63]
+Avg Time (over 5 runs): 3,003240 ms
+

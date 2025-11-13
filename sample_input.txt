@@ -1,0 +1,7 @@
+# sample_input.txt - format: Label|Text|Pattern
+# Lines starting with # are ignored. To create a repeated long text use: repeat:COUNT:SUBSTRING
+
+Short|ababa|aba
+Medium|ababababacababababacababababac|abababac
+Long|repeat:10000:abacaba|abacabaabac
+
